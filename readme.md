@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liukatkat
-- 📫 Feel free to reach me through email (katrinaliutinnam@gmail.com) and on Instagram (@liukatkat)
+- 📫 Feel free to reach me through email (katltn@seas.upenn.edu) and on Instagram (@liukatkat)
 
 <!---
 liukatkat/liukatkat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
