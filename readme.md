@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liukatkat
+- 👋 Hi, I’m @liukatkat. Checkout my personal website at https://liukatkat.github.io/.
 - 📫 Feel free to reach me through email (katltn@seas.upenn.edu) and on Instagram (@liukatkat)
 
 <!---
